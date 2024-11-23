@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\2. Deberes\\3. Patrones de dise\u00F1o vs Lenguajes de programaci\u00F3n\\Patrones-de-dise-o-vs-Lenguajes-de-programaci-n\\CShart_Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFB4C20-805E-49F5-8A1B-2A3CCDE32235}|CShart_Observer.csproj|d:\\7. septimo semestre\\3. aplicaciones distribuidas\\2. deberes\\3. patrones de dise\u00F1o vs lenguajes de programaci\u00F3n\\patrones-de-dise-o-vs-lenguajes-de-programaci-n\\cshart_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFB4C20-805E-49F5-8A1B-2A3CCDE32235}|CShart_Observer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\2. Deberes\\3. Patrones de dise\u00F1o vs Lenguajes de programaci\u00F3n\\Patrones-de-dise-o-vs-Lenguajes-de-programaci-n\\CShart_Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\7. Septimo Semestre\\3. Aplicaciones Distribuidas\\2. Deberes\\3. Patrones de dise\u00F1o vs Lenguajes de programaci\u00F3n\\Patrones-de-dise-o-vs-Lenguajes-de-programaci-n\\CShart_Observer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:44:38.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
